@@ -51,4 +51,5 @@ public class homeWorkApp {
             System.out.println("bb<aa");
         }
     }
+    // Бесполезный комментарий
 }
